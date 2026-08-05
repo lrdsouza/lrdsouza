@@ -2,7 +2,7 @@
 
 # Leonardo Rodrigues de Souza
 
-### Senior AI Engineer | Machine Learning Architect
+### Senior AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leonardo--ia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ia)
 [![Email](https://img.shields.io/badge/Email-rdsouza.leonardo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdsouza.leonardo@gmail.com)
