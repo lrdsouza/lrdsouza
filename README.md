@@ -212,7 +212,7 @@ Re-engineered NLP inference pipelines replacing expensive managed services with 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lrdsouza&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF" alt="Contribution Graph" width="95%"/>
+<img src="https://ghchart.rshah.org/58A6FF/lrdsouza" alt="Contribution Calendar" width="80%"/>
 
 <br/><br/>
 
